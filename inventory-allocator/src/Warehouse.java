@@ -1,5 +1,4 @@
 import java.util.Map;
-import java.util.Set;
 
 /**
  * The Warehouse class
@@ -50,7 +49,6 @@ public class Warehouse {
         } else{
             this.inventoryDistribution.put(item, num);
         }
-
     }
 
 }
